@@ -1,37 +1,157 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/undynx/cosas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/undynx/cosas/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[
+{
+"WHO": "Joe",
+"WEEK": [
+{
+"NUMBER": 3,
+"EXPENSE": [
+{
+"WHAT": "Beer",
+"AMOUNT": 18.00
+},
+{
+"WHAT": "Food",
+"AMOUNT": 12.00
+},
+{
+"WHAT": "Food",
+"AMOUNT": 19.00
+},
+{
+"WHAT": "Car",
+"AMOUNT": 20.00
+}
+]
+},
+{
+"NUMBER": 4,
+"EXPENSE": [
+{
+"WHAT": "Beer",
+"AMOUNT": 19.00
+},
+{
+"WHAT": "Beer",
+"AMOUNT": 16.00
+},
+{
+"WHAT": "Food",
+"AMOUNT": 17.00
+},
+{
+"WHAT": "Food",
+"AMOUNT": 17.00
+},
+{
+"WHAT": "Beer",
+"AMOUNT": 14.00
+}
+]
+},
+{
+"NUMBER": 5,
+"EXPENSE": [
+{
+"WHAT": "Beer",
+"AMOUNT": 14.00
+},
+{
+"WHAT": "Food",
+"AMOUNT": 12.00
+}
+]
+}
+]
+},
+{
+"WHO": "Beth",
+"WEEK": [
+{
+"NUMBER": 3,
+"EXPENSE": [
+{
+"WHAT": "Beer",
+"AMOUNT": 16.00
+}
+]
+},
+{
+"NUMBER": 4,
+"EXPENSE": [
+{
+"WHAT": "Food",
+"AMOUNT": 17.00
+},
+{
+"WHAT": "Beer",
+"AMOUNT": 15.00
+}
+]
+},
+{
+"NUMBER": 5,
+"EXPENSE": [
+{
+"WHAT": "Food",
+"AMOUNT": 12.00
+},
+{
+"WHAT": "Beer",
+"AMOUNT": 20.00
+}
+]
+}
+]
+},
+{
+"WHO": "Janet",
+"WEEK": [
+{
+"NUMBER": 3,
+"EXPENSE": [
+{
+"WHAT": "Car",
+"AMOUNT": 19.00
+},
+{
+"WHAT": "Food",
+"AMOUNT": 18.00
+},
+{
+"WHAT": "Beer",
+"AMOUNT": 18.00
+}
+]
+},
+{
+"NUMBER": 4,
+"EXPENSE": [
+{
+"WHAT": "Car",
+"AMOUNT": 17.00
+}
+]
+},
+{
+"NUMBER": 5,
+"EXPENSE": [
+{
+"WHAT": "Beer",
+"AMOUNT": 14.00
+},
+{
+"WHAT": "Car",
+"AMOUNT": 12.00
+},
+{
+"WHAT": "Beer",
+"AMOUNT": 19.00
+},
+{
+"WHAT": "Food",
+"AMOUNT": 12.00
+}
+]
+}
+]
+]
